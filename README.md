@@ -11,10 +11,10 @@ The Indian Premier League (IPL) is a professional T20 cricket league in India co
 
 ### Learnings from the project
 
-Reading data using numpy module
-Using numpy unique and shape function
-Subsetting numpy data using [:] methods
-Using conditional filtering using slicing and indexing in numpy 
+Reading data using numpy module.
+Using numpy unique and shape function.
+Subsetting numpy data using [:] methods.
+Using conditional filtering using slicing and indexing in numpy.
 
 
 ### Approach taken to solve the problem
